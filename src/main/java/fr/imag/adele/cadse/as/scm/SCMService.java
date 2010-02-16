@@ -9,7 +9,8 @@ import fr.imag.adele.cadse.core.content.ContentItem;
  *
  */
 public interface SCMService {
-
+	public static final String CANNOT_RETRIEVE_SCM_URL = "Cannot retrieve scm url";
+	
 	/**
 	 * Performs import operation on specified content.
 	 * 
