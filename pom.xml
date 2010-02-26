@@ -25,7 +25,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-Name>${pom.name}</Bundle-Name>
+                        <Bundle-Name>${project.name}</Bundle-Name>
                         <Bundle-Description>${pom.description}</Bundle-Description>
                         <Export-Package>fr.imag.adele.cadse.as.scm;version="${version.cadse}"</Export-Package>
                         <Import-Package>fr.imag.adele.cadse.core.content</Import-Package>
