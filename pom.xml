@@ -10,7 +10,7 @@
 	<groupId>fr.imag.adele.cadse</groupId>
 	<artifactId>as.scmservice</artifactId>
 	<packaging>bundle</packaging>
-	<name>as.SCMService</name>
+	<name>fr.imag.adele.cadse.as.scmservice</name>
 	<version>2.3.0-SNAPSHOT</version>
 	<description>CADSE SCM Service</description>
 
